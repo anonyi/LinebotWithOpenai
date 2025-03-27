@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+      "@google-cloud/functions-framework": "^3.0.0",
+      "@line/bot-sdk": "^9.7.1",
+      "express": "^4.21.2",
+      "openai": "^4.89.0"
+    }
+  }
+  
